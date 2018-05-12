@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35381
     wikipedia: https://en.wikipedia.org/wiki/Michael_Shaara
 description: Cover; Title Page; Copyright Page; Wainer.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32230#Wainer
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-03'
 gutenberg_type: Text
