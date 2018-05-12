@@ -1,0 +1,35 @@
+_repo: Wainer_32230
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ashman, William
+    alias: Ashman
+    gutenberg_agent_id: '33729'
+    url: http://www.gutenberg.org/2009/agents/33729
+covers:
+- cover_type: archival
+  image_path: 32230-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shaara, Michael
+    birthdate: 1928
+    deathdate: 1988
+    gutenberg_agent_id: '35381'
+    url: http://www.gutenberg.org/2009/agents/35381
+    wikipedia: https://en.wikipedia.org/wiki/Michael_Shaara
+description: Cover; Title Page; Copyright Page; Wainer.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Wainer
+url: http://www.gutenberg.org/ebooks/32230
